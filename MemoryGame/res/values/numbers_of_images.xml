@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "numberOfImages">
+        <item>""</item>
+        <item>"Find 4"</item>
+        <item>"Find 8"</item>
+        <item>"Find 12"</item>
+    </string-array>
+</resources>

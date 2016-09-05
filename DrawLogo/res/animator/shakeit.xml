@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="sequentially">
+        <objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+            
+            android:propertyName="x"
+            android:duration="100"
+            android:valueTo="300"
+            android:valueType="floatType"
+            android:repeatCount="5"
+            android:repeatMode ="reverse"/>
+        
+</set>
+
+<!--<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="1000"
+    android:valueTo="200"
+    android:valueType="floatType"
+    android:propertyName="y"
+    android:repeatCount="1"
+    android:repeatMode="reverse"/>
+      
+ <objectAnimator 
+     android:duration="1000"
+     android:valueTo="300"
+     android:valueType="floatType"
+     android:propertyName="x"
+     android:repeatCount="1"
+     android:repeatMode="restart"
+     />
+     
+ </objectAnimator> -->
+ 
+

@@ -1,0 +1,15 @@
+<merge 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/sameSize"
+         android:layout_width="123dp"
+        android:layout_height="123dp"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/a1" />
+
+   
+ 
+</merge>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Modified_Drone</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Drone.jpg</name>
+			<type>1</type>
+			<location>C:/Users/bashar.alhafni/Documents/NetBeansProjects/ArDrone/src/Drone.jpg</location>
+		</link>
+		<link>
+			<name>src/Drone1.jpg</name>
+			<type>1</type>
+			<location>C:/Users/bashar.alhafni/Documents/NetBeansProjects/ArDrone/src/Drone1.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;textView2&apos; in &apos;com.example.taxescalculator.R.id&apos; to &apos;myFive&apos;&#x0D;&#x0A;- Original project: &apos;TaxesCalculator&apos;&#x0D;&#x0A;- Original element: &apos;com.example.taxescalculator.R.id.textView2&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.taxescalculator.R.id.myFive&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="true" description="Rename field &apos;textView2&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/gen&lt;com.example.taxescalculator{R.java[R[id^textView2" name="myFive" references="true" setter="false" stamp="1454804526119" textual="false" version="1.0"/>
+</session>

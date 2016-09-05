@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.class04_restore.MainActivity" >
+
+     <item
+        android:id="@+id/toAlert"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/toAlertDialog"/>
+
+</menu>

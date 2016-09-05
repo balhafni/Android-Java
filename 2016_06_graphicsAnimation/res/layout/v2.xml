@@ -1,0 +1,19 @@
+<merge 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="123dp"
+        android:layout_height="123dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/a2" />
+    
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="123dp"
+        android:layout_height="123dp"
+        android:layout_marginTop="300dp"
+        android:src="@drawable/a2" />
+</merge>

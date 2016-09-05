@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">class05</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="toAlertDialog">to AlertDialog Activity</string>
+	<string name="toShape">to Shape Activity</string>
+	<string name="toSimple">to SimpleAnimation Activity</string>
+	
+	<string-array name="TypesOfMovies">
+	    <item>Action</item>
+	    <item>Suspense</item>
+	    <item>Drama</item>
+	    <item>Comedy</item>
+	    <item>Adventure</item>
+	</string-array>
+	
+	
+</resources>

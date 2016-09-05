@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.intent.MainActivity" >
+
+    <item
+        android:id="@+id/tween"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="tween"/>
+    
+    
+         <!-- android:icon="@drawable/ic_action_search"-->
+         
+         
+         
+     <item android:id="@+id/fadein"
+          android:title="FadeIn"
+          android:showAsAction="always" />
+      <item android:id="@+id/fadeout"
+          android:title="FadeOut"
+          android:showAsAction="always" />
+       <item android:id="@+id/scale"
+          android:title="Scale"
+          android:showAsAction="ifRoom" />
+       <item android:id="@+id/rotate"
+          android:title="rotate"
+          android:showAsAction="ifRoom" />
+		<item android:id="@+id/slide"
+          android:title="slide"
+          android:showAsAction="ifRoom" />
+		<item android:id="@+id/move"
+          android:title="move"
+          android:showAsAction="ifRoom" />
+          <item android:id="@+id/shake"
+          android:title="shake"
+          android:showAsAction="ifRoom" />
+</menu>
